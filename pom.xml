@@ -19,6 +19,11 @@
             <artifactId>javatuples</artifactId>
             <version>1.2</version>
         </dependency>
+        <dependency>
+            <groupId>com.iluwatar.urm</groupId>
+            <artifactId>urm-core</artifactId>
+            <version>1.4.8</version>
+        </dependency>
     </dependencies>
 
 </project>
