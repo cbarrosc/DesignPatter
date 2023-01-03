@@ -1,8 +1,5 @@
 package solid.singleresponsability.cumple;
 
-import java.io.FileNotFoundException;
-import java.io.PrintStream;
-import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 //clase journal se encarga de agregar y remover entradas de agenda
