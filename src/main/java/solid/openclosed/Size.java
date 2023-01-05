@@ -1,5 +1,5 @@
 package solid.openclosed;
 
 public enum Size {
-    SMALL, MEDIUM, LARGE, YUGE
+    SMALL, MEDIUM, LARGE, HUGE
 }
